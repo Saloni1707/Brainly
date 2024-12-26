@@ -1,0 +1,2 @@
+# Brainly
+Brainly is a web application designed to centralize and organize your notes from various platforms in one convenient place. Whether you’ve gathered notes from lectures, articles, or study materials, Brainly helps you keep everything easily accessible and well-organized. With its intuitive interface, you can store, categorize, and quickly search through your saved notes. Say goodbye to scattered information and experience seamless organization for all your study resources, making learning and revision more efficient than ever.
